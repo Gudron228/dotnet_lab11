@@ -1,0 +1,8 @@
+Log file status checked - Created
+Collecting Started
+Measurement - 939
+Measurement - 496
+Measurement - 1255
+Measurement - 1178
+Measurement - 108
+Object Disposed

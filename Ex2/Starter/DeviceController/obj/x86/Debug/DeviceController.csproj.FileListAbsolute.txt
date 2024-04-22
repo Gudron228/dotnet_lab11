@@ -1,0 +1,6 @@
+C:\Labfiles\Lab 11\Ex2\Starter\DeviceController\bin\Debug\DeviceController.dll
+C:\Labfiles\Lab 11\Ex2\Starter\DeviceController\bin\Debug\DeviceController.pdb
+C:\Labfiles\Lab 11\Ex2\Starter\DeviceController\obj\x86\Debug\DeviceController.csproj.AssemblyReference.cache
+C:\Labfiles\Lab 11\Ex2\Starter\DeviceController\obj\x86\Debug\DeviceController.csproj.CoreCompileInputs.cache
+C:\Labfiles\Lab 11\Ex2\Starter\DeviceController\obj\x86\Debug\DeviceController.dll
+C:\Labfiles\Lab 11\Ex2\Starter\DeviceController\obj\x86\Debug\DeviceController.pdb
